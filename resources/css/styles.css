@@ -2,6 +2,7 @@
 body {
   text-align: center;
   background:black;
+  
 }
 
 
@@ -15,7 +16,8 @@ h1 {
   font-weight: Normal;
   font-size: 50px;
   color: white;
-  text-align: center;
+
+
 }
 
 h2 {
@@ -48,4 +50,10 @@ a {
   font-size: 21px;
   font-family: Verdana;
   background: black;
+}
+
+.header {
+  width:1000px;
+  border: 1px solid white;
+  display: inline-block;
 }
